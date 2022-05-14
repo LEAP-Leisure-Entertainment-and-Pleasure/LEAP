@@ -1,4 +1,4 @@
-#LEAP - Leisure, Entertainment and Pleasure.
+<h1>#LEAP - Leisure, Entertainment and Pleasure.</h1>
 
 <img src = "https://github.com/LEAP-Leisure-Entertainment-and-Pleasure/LEAP/blob/main/home/LEAP.png">
 
